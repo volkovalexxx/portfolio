@@ -11,7 +11,6 @@
         <li>
           <b>Weather App (React + Vite)</b> - <a href="https://weather-app-alex-volkov.netlify.app/" target="_blank"><i>*click*</i></a>
         </li>
-        
       </ul>
     </td>
   </tr>
